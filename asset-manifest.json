@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/glowly/static/js/main.5615a180.js",
+    "static/js/371.185a7a29.js": "/glowly/static/js/371.185a7a29.js",
+    "static/media/Lobster.ttf": "/glowly/static/media/Lobster.9535d77ef867bef91bc5.ttf",
+    "static/media/LSD2.ttf": "/glowly/static/media/LSD2.c0cf96e82e5f323b843a.ttf",
+    "static/media/PSB.ttf": "/glowly/static/media/PSB.53df38d5491afbeb42a5.ttf",
+    "static/media/Axeon.ttf": "/glowly/static/media/Axeon.6e64f7e4d3a0c9131d26.ttf",
+    "static/media/Pacman.ttf": "/glowly/static/media/Pacman.00d715146e777174376c.ttf",
+    "static/media/MC.ttf": "/glowly/static/media/MC.9f40becc41aadbd2ba2d.ttf",
+    "favicon.ico": "/glowly/favicon.ico",
+    "static/media/DotMatrix.ttf": "/glowly/static/media/DotMatrix.9a451f682aca63da0ff1.ttf",
+    "index.html": "/glowly/index.html",
+    "favicon-32.png": "/glowly/favicon-32.png",
+    "favicon-16.png": "/glowly/favicon-16.png",
+    "manifest.json": "/glowly/manifest.json",
+    "serve.json": "/glowly/serve.json",
+    "main.5615a180.js.map": "/glowly/static/js/main.5615a180.js.map",
+    "371.185a7a29.js.map": "/glowly/static/js/371.185a7a29.js.map"
+  },
+  "entrypoints": [
+    "static/js/371.185a7a29.js",
+    "static/js/main.5615a180.js"
+  ]
+}

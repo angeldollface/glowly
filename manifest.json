@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "Use your phone as a billboard.",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Glowly",
+  "short_name": "Glowly",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
