@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/glowly/static/js/main.5615a180.js",
-    "static/js/371.185a7a29.js": "/glowly/static/js/371.185a7a29.js",
+    "main.js": "/glowly/static/js/main.73d53b52.js",
+    "static/js/651.7ec80597.js": "/glowly/static/js/651.7ec80597.js",
     "static/media/Lobster.ttf": "/glowly/static/media/Lobster.9535d77ef867bef91bc5.ttf",
     "static/media/LSD2.ttf": "/glowly/static/media/LSD2.c0cf96e82e5f323b843a.ttf",
     "static/media/PSB.ttf": "/glowly/static/media/PSB.53df38d5491afbeb42a5.ttf",
@@ -15,11 +15,11 @@
     "favicon-16.png": "/glowly/favicon-16.png",
     "manifest.json": "/glowly/manifest.json",
     "serve.json": "/glowly/serve.json",
-    "main.5615a180.js.map": "/glowly/static/js/main.5615a180.js.map",
-    "371.185a7a29.js.map": "/glowly/static/js/371.185a7a29.js.map"
+    "main.73d53b52.js.map": "/glowly/static/js/main.73d53b52.js.map",
+    "651.7ec80597.js.map": "/glowly/static/js/651.7ec80597.js.map"
   },
   "entrypoints": [
-    "static/js/371.185a7a29.js",
-    "static/js/main.5615a180.js"
+    "static/js/651.7ec80597.js",
+    "static/js/main.73d53b52.js"
   ]
 }
