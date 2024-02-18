@@ -6,11 +6,11 @@
 
 ## ABOUT :books:
 
-I recently an episode of [Moving Differently](). This VLOG series is made by James Hype in which we accompany him while he is on tour. In one of the scenes, James' tour manager, Rashun, shows James some text on Rashun's phone to communicate with James. I thought I'd make an app that allows the same thing. Enjoy. :heart:
+I recently saw an episode of [Moving Differently](https://youtube.com/playlist?list=PL4XpnivsXJXPvkqLnikE4tsHAsDpMZ26e&si=lKPVQqyAT-O6Fh9b). This VLOG series is made by James Hype in which we accompany him while he is on tour. In one of the scenes, James' tour manager, Rashun, shows James some text on Rashun's phone to communicate with James. I thought I'd make an app that allows the same thing. Enjoy. :heart:
 
 ## USAGE :hammer:
 
-- 1.) Open up the app on [this link]().
+- 1.) Open up the app on [this link](https://angeldollface.boo/glowly).
 - 2.) Make your settings.
 - 3.) Click "Render".
 - 4.) Behold!
